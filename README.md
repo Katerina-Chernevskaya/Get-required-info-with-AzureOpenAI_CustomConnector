@@ -128,5 +128,6 @@ Finally, if you have an idea for improvement, [make a suggestion](https://github
 - [Microsoft Power Automate documentation](https://docs.microsoft.com/en-us/power-automate/)
 
 
-<img src="https://telemetry.sharepointpnp.com/powerautomate-samples/samples/readme-template" />
+<img src="https://telemetry.sharepointpnp.com/powerautomate-samples/samples/
+get-required-info-with-azureOpenAI_customconnector" />
 
